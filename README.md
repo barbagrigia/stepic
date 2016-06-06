@@ -1,1 +1,1 @@
-# stepic
+# stepic.org
