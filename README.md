@@ -16,6 +16,7 @@ My solutions for https://stepic.org MOOC courses
 ## ToDo
 
 - [ ] [Development of Web Services in Java. Part 2] (https://stepic.org/course/186)
+- [ ] [Python: Basics and Applications] (https://stepic.org/course/512)
 - [ ] [Functional Programming in Haskell] (https://stepic.org/course/75)
 - [ ] [Algorithms and Data Structures] (https://stepic.org/course/156)
 - [ ] [Algorithms: Theory and Practice. Methods] (https://stepic.org/course/217)
