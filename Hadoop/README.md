@@ -14,9 +14,3 @@ MOOC by stepic.org
 - [ ] Module 7: NoSQL Databases: HBase and Cassandra
 - [ ] Module 8: Spark
 - [ ] Module 9: YARN - MapReduce 2.0
-
-## ToDo
-
-- [ ] Tests
-- [ ] Syntax validation
-- [ ] CI
