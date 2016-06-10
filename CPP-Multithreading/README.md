@@ -8,7 +8,7 @@ MOOC by stepic.org
 - [x] Module 1: Introduction
 - [x] Module 2: Containers. Smart Pointers. Allocators 
 - [x] Module 3: Berkley sockets. Multiplexing
-- [ ] Module 4: Asynchronous networking
+- [x] Module 4: Asynchronous networking
 - [ ] Module 5: Processes. Channels. Signals
 - [ ] Module 6: Message Queues. Semaphores. Shared memory
 - [ ] Module 7: Streams. Synchronization Tools
