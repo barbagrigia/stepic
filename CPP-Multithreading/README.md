@@ -1,6 +1,6 @@
 # stepic_cpp_multithreading
 
-Code for [Multi-threaded programming in C/C++](https://stepic.org/course/149)
+Code for [Multithreaded programming in C/C++](https://stepic.org/course/149)
 MOOC by stepic.org
 
 ## Progress
