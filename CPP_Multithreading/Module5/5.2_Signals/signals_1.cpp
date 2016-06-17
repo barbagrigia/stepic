@@ -15,7 +15,7 @@ int main() {
 		signal(SIGTERM, SIG_IGN);
 		signal(SIGINT, SIG_IGN);
 		
-		while(!done) {
+		while(1) {
 			pause();
         }
 }
