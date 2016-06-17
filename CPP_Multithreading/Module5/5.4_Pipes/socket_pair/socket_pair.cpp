@@ -23,7 +23,7 @@ void parent( int socket ) {
       if (n > 0)
         printf( "parent received '%.*s'\n", n, buf );
     }
-    close(socket);
+    close( socket );
 }
 
 void socketfork() {
