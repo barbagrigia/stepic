@@ -4,8 +4,7 @@
 #include <fcntl.h>
 
 
-void pipe_cmd()
-{
+void pipe_cmd() {
   char path[] = "//home//box//result.out";
   char command[255] = {0};
   char result[255] = {0};
@@ -20,8 +19,7 @@ void pipe_cmd()
   }
 }
 
-int main(int argc, char **argv)
-{
+int main( int argc, char **argv ) {
   pipe_cmd();
   
   return 0;
