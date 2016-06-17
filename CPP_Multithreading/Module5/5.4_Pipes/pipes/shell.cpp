@@ -21,7 +21,7 @@ int execute_child( const vector<string>& path, int pipe_input = -1 )
 	if( !child_pid ) {
 		char*  argv[64];
 		int i = 0;
-		for( unsigned int i =0 ; i < path.size(); i++ ) {
+		for( unsigned int i = 0 ; i < path.size(); i++ ) {
 			argv[i] = const_cast<char*>( path[i].c_str() );
 		}
 		argv[i] = 0;
