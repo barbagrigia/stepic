@@ -27,7 +27,7 @@ int main()
 	size_t size = mq_receive( mq, buffer, 256, 0 );
 
 
-	int fd = open( "/home/box/message.txt", O_CREAT | O_WRONLY | O_TRUNC, 0666  );
+	int fd = open( "/home/box/message.txt", O_CREAT | O_WRONLY | O_TRUNC, 0666 );
 	if( fd < 0 ) {
 		printf( "Cant open out file" );
 	}
