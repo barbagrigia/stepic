@@ -1,6 +1,6 @@
 # stepic_cpp_multithreading
 
-Code for [Multithreaded programming in C/C++](https://stepic.org/course/149) tasks solutions
+Tasks solutions for [Multithreaded programming in C/C++](https://stepic.org/course/149) 
 MOOC by stepic.org
 
 ## Progress
