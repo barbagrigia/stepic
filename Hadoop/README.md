@@ -1,6 +1,6 @@
 # stepic_hadoop
 
-Code for [Hadoop. Big Data Processing Systems](https://stepic.org/course/150)
+Tasks solutions for [Hadoop. Big Data Processing Systems](https://stepic.org/course/150)
 MOOC by stepic.org
 
 ## Progress
