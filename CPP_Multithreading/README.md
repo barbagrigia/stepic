@@ -14,9 +14,3 @@ MOOC by stepic.org
 - [x] Module 7: Threads. Synchronization Tools
 - [ ] Module 8: Concurrent programming
 - [ ] Module 9: Epilogue
-
-## ToDo
-
-- [ ] Tests
-- [ ] Syntax validation
-- [ ] CI
