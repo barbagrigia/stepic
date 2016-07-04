@@ -11,6 +11,6 @@ MOOC by stepic.org
 - [x] Module 4: Solving Problems with MapReduce
 - [x] Module 5: Graph Algorithms with MapReduce
 - [x] Module 6: Pig and Hive
-- [ ] Module 7: NoSQL Databases: HBase and Cassandra
+- [x] Module 7: NoSQL Databases: HBase and Cassandra
 - [ ] Module 8: Spark
 - [ ] Module 9: YARN - MapReduce 2.0
