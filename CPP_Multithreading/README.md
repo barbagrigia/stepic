@@ -11,7 +11,7 @@ MOOC by stepic.org
 - [x] Module 4: Asynchronous networking
 - [x] Module 5: Processes. Signals. Pipes
 - [x] Module 6: Message Queues. Semaphores. Shared memory
-- [ ] Module 7: Streams. Synchronization Tools
+- [x] Module 7: Threads. Synchronization Tools
 - [ ] Module 8: Concurrent programming
 - [ ] Module 9: Epilogue
 
