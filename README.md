@@ -9,7 +9,7 @@ My solutions for https://stepic.org MOOC courses
 - [x] [Python Programming] (https://stepic.org/course/67) [(Certificate)] (https://stepic.org/certificate/f43a4a073b8638fc1590b35cead1920344018103.pdf)
 - [x] [Hadoop.Big Data Processing Systems] (https://stepic.org/course/150)
 - [ ] [Programming in C++] (https://stepic.org/course/7)
-- [ ] [Multithreaded Programming in C/C++] (https://stepic.org/course/149)
+- [x] [Multithreaded Programming in C/C++] (https://stepic.org/course/149)
 - [ ] [Java. Base course] (https://stepic.org/course/187)
 - [ ] [Development of Web Services in Java. Part 1] (https://stepic.org/course/146)
 
