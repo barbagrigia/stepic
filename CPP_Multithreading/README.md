@@ -12,5 +12,5 @@ MOOC by stepic.org
 - [x] Module 5: Processes. Signals. Pipes
 - [x] Module 6: Message Queues. Semaphores. Shared memory
 - [x] Module 7: Threads. Synchronization Tools
-- [ ] Module 8: Concurrent programming
-- [ ] Module 9: Epilogue
+- [x] Module 8: Concurrent programming
+- [x] Module 9: Epilogue
