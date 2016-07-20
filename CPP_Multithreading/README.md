@@ -13,4 +13,4 @@ MOOC by stepic.org
 - [x] Module 6: Message Queues. Semaphores. Shared memory
 - [x] Module 7: Threads. Synchronization Tools
 - [x] Module 8: Concurrent programming
-- [x] Module 9: Epilogue
+- [ ] Module 9: Epilogue
