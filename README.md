@@ -13,7 +13,7 @@ My solutions for https://stepik.org MOOC courses
 - [ ] [Programming in C++] (https://stepik.org/course/7)
 - [ ] [Advanced programming in C/C++] (https://stepik.org/course/153)
 - [x] [Multithreaded Programming in C/C++] (https://stepik.org/course/149)
-- [ ] [Java. Base course] (https://stepik.org/course/187)
+- [x] [Java. Base course] (https://stepik.org/course/187) [(Certificate)] (https://stepik.org/certificate/0d839742ce9fc133915d41b9add59cffbb9baa4c.pdf)
 - [ ] [Development of Web Services in Java. Part 1] (https://stepik.org/course/146)
 
 ## ToDo
