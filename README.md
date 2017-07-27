@@ -12,7 +12,7 @@ My solutions for https://stepik.org MOOC courses
 - [x] [Security Analysis of Web Projects](https://stepik.org/course/127) [(Certificate)](https://stepik.org/certificate/472f8ea3d7eeca7f474e8511e08d8ba6f0e9470e.pdf)
 - [ ] [Programming in C++](https://stepik.org/course/7)
 - [ ] [Advanced programming in C/C++](https://stepik.org/course/153)
-- [x] [Multithreaded Programming in C/C++](https://stepik.org/course/149)
+- [x] [Multithreaded Programming in C/C++](https://stepik.org/course/149)[(Certificate)](https://stepik.org/certificate/a862d902cca4548f05810983e2acac328fe3ac5e.pdf)
 - [x] [Java. Base course](https://stepik.org/course/187) [(Certificate)](https://stepik.org/certificate/0d839742ce9fc133915d41b9add59cffbb9baa4c.pdf)
 - [ ] [Development of Web Services in Java. Part 1](https://stepik.org/course/146)
 
